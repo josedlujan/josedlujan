@@ -17,17 +17,26 @@ Here are some ideas to get you started:
 <h1>Hi! My name is José Luján</h1>
 <p>I'm Developer, teacher and writer.</p>
 <ul>
+  <li>Telematics Engineer and M.T.I (ITESM - Tec de Monterrey)</li>
+  <li>Languages and Technologies:</li>
+      <ul>
+        <li>Java</li>
+        <li>Python</li>
+        <li>Kotlin</li>
+        <li>Android</li>
+      </ul>
   <li>Android developer since version 1.0 (2008)</li>
   <li>Teaching in public and private universities in master's and bachelor's degrees (20 universities) </li>
   <li>YouTube channel where I talk about technology (+30k subs)</li>
+  <li>Participation as developer, tech leader and architect +200 Apps (Android / iOS)</li>
   <li>Teaching on online platforms:</li>
       <ul>
-        <li>Linkeding Learning</li>
-        <li>Codigo Facilito</li>
-        <li>EdTeam</li>
-        <li>Escuela.it</li>
-        <li>Udemy</li>
-        <li>of course, on my own.</li>
+        <li>Linkeding Learning (28 courses)</li>
+        <li>Codigo Facilito(+40 courses) </li>
+        <li>EdTeam (14 courses)</li>
+        <li>Escuela.it(+35 courses)</li>
+        <li>Udemy (2 courses)</li>
+        <li>of course, on my own.(+150 courses)</li>
       </ul>
   <li>7 books published, you can buy them from RC Libros, Amazon, Ganghi, AlfaOmega and other publishers.</li>
       <ul>
