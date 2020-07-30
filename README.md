@@ -29,7 +29,17 @@ Here are some ideas to get you started:
         <li>Udemy</li>
         <li>of course, on my own.</li>
       </ul>
-  <li></li>
+  <li>7 books published, you can buy them from RC Libros, Amazon, Ganghi, AlfaOmega and other publishers.</li>
+      <ul>
+        <li> <a href="https://rclibros.es/producto/android-aprende-desde-cero-crear-aplicaciones/">ANDROID. Aprende desde cero a crear aplicaciones</a> - 2014</li>
+       <li> <a href="https://rclibros.es/producto/html5-css-y-javascript-crea-tu-web-y-apps/">HTML5, CSS y JavaScript. Crea tu web y apps con el estándar de desarrollo</a> - 2016</li>
+     <li> <a href="https://rclibros.es/producto/java-desde-cero-preparate-entrevista-trabajo/">JAVA DESDE CERO y prepárate para tu entrevista de trabajo</a> - 2016</li>
+         <li><a href="https://gum.co/droidbook">Desarrollo de aplicaciones android con Android Studio (Ebook)</a> - 2016</li>
+         <li> <a href="https://rclibros.es/producto/aprende-programar-kotlin/">Aprende a programar con KOTLIN </a> - 2017</li>
+    <li> <a href="https://rclibros.es/producto/android-studio-aprende-desarrollar-aplicaciones/">ANDROID STUDIO. Aprende a desarrollar aplicaciones </a> - 2017</li>
+        <li> <a href="https://rclibros.es/producto/aprende-a-programar-con-python/">Aprende a programar con PYTHON </a> - 2019</li>
+       <li> <a href="#">Flutter *Coming soon</a> - 2020</li>
+      </ul>
   <li></li>
   <li></li>
   <li></li>
