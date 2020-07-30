@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <li>👨🏽‍🏫  Teaching in public and private universities in master's and bachelor's degrees (20 universities) </li>
   <li>:movie_camera: YouTube channel where I talk about technology (+30k subs)</li>
   <li>👨🏽‍💻  Participation as developer, tech leader and architect +200 Apps (Android / iOS)</li>
-  <li>🏽‍🏫 Teaching on online platforms:</li>
+  <li>👨🏽‍🏫  Teaching on online platforms:</li>
       <ul>
         <li>Linkeding Learning (28 courses)</li>
         <li>Codigo Facilito(+40 courses) </li>
