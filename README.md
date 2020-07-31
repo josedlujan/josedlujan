@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <li>👨🏽‍💻  Participation as developer, tech leader and architect +200 Apps (Android / iOS)</li>
   <li>👨🏽‍🏫  Teaching on online platforms:</li>
       <ul>
-        <li>Linkeding Learning (28 courses)</li>
+        <li>Linkedin Learning (28 courses)</li>
         <li>Codigo Facilito(+40 courses) </li>
         <li>EdTeam (14 courses)</li>
         <li>Escuela.it(+35 courses)</li>
