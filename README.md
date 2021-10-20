@@ -24,6 +24,7 @@ Here are some ideas to get you started:
         <li>Python</li>
         <li>Kotlin</li>
         <li>Android</li>
+        <li>Rust</li>
       </ul>
   <li>:robot: Android developer since version 1.0 (2008)</li>
   <li>👨🏽‍🏫  Teaching in public and private universities in master's and bachelor's degrees (20 universities) </li>
