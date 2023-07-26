@@ -35,10 +35,10 @@ Here are some ideas to get you started:
       <ul>
         <li>Linkedin Learning (28 courses)</li>
         <li>Codigo Facilito(+40 courses) </li>
-        <li>EdTeam (14 courses)</li>
+        <li>EdTeam (18 courses)</li>
         <li>Escuela.it(+35 courses)</li>
-        <li>Udemy (2 courses)</li>
-        <li>of course, on my own.(+150 courses)</li>
+        <li>Udemy (4 courses)</li>
+        <li>of course, on my own.(+170 courses)</li>
         <li>Near Hispano</li>
       </ul>
   <li>:books: 7 books published, you can buy them from RC Libros, Amazon, Ganghi, AlfaOmega and other publishers.</li>
