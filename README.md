@@ -50,7 +50,7 @@ Here are some ideas to get you started:
          <li> <a href="https://rclibros.es/producto/aprende-programar-kotlin/">Aprende a programar con KOTLIN </a> - 2017</li>
     <li> <a href="https://rclibros.es/producto/android-studio-aprende-desarrollar-aplicaciones/">ANDROID STUDIO. Aprende a desarrollar aplicaciones </a> - 2017</li>
         <li> <a href="https://rclibros.es/producto/aprende-a-programar-con-python/">Aprende a programar con PYTHON </a> - 2019</li>
-       <li> <a href="#">Flutter *Coming soon</a> - 2020</li>
+       <li> <a href="https://rclibros.es/producto/dart-y-flutter-desarrollo-multiplataforma/">Dart y Flutter, Desarrollo multiplataforma</a> - 2023</li>
       </ul>
 
 </ul>
