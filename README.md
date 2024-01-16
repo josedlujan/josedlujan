@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Hi! My name is José Luján</h1>
-<p>🙋🏽‍♂️I'm Developer, teacher and writer.</p>
+<p>🙋🏽‍♂️I'm Developer, Professor, Writer, DevRel.</p>
 <ul>
   <li>:mortar_board: Telematics Engineer and M.T.I (ITESM - Tec de Monterrey)</li>
   <li>👨🏽‍💻 Languages and Technologies:</li>
