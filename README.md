@@ -26,6 +26,7 @@ Here are some ideas to get you started:
         <li>Android</li>
         <li>Rust</li>
         <li>Blockchain</li>
+        <li>Swift</li>
       </ul>
   <li>:robot: Android developer since version 1.0 (2008)</li>
   <li>👨🏽‍🏫  Teaching in public and private universities in master's and bachelor's degrees (20 universities) </li>
