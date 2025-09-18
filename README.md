@@ -53,6 +53,7 @@ Here are some ideas to get you started:
         <li> <a href="https://rclibros.es/producto/aprende-a-programar-con-python/">Aprende a programar con PYTHON </a> - 2019</li>
        <li> <a href="https://rclibros.es/producto/dart-y-flutter-desarrollo-multiplataforma/">Dart y Flutter, Desarrollo multiplataforma</a> - 2023</li>
        <li> <a href="https://rclibros.es/producto/kotlin-en-profundidad/">KOTLIN en profundidad. Domina el lenguaje moderno multiplataforma</a> - 2025</li>
+         <li> <a href="https://www.packtpub.com/en-us/product/kotlin-for-java-developers-9781835884836">Kotlin for Java Developers</a> - 2025</li>
       </ul>
 
 </ul>
